@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+   body{
+    background:#ffff url(../img/fundo.png) repeat-x;
+   
+   }
+   #container{
+
+        max-width: 900px;
+        margin: auto;
+        padding: 25px;
+   }
+
+   #main{ 
+
+    background: url(../img/detalhe-topo.png) no-repeat  right;
+    height: 150px;
+   
+
+
+
+   }
+   .logo{
+    width: 152px;
+    height: 70px;
+    background: url(../img/logo.png) no-repeat center;
+
+   }
+
+
+
+
