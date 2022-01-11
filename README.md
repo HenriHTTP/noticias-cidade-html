@@ -7,7 +7,7 @@
 </div> 
 
 <div>
-    <h2> site  sem desenvolvido </h2>
+    <h2> site  sendo desenvolvido </h2>
   </div>
 
 <div alig="center">
