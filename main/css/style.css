@@ -26,10 +26,10 @@
 
    }
 
-   .logo{
-    width: 152px;
-    height: 70px;
-    background: url(../img/logo.png) no-repeat center;
+   #main img{
+    max-width:200px;
+    max-height:70px;
+    margin-top: 15px;    
    }
    
    .menu{
