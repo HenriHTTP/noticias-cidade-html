@@ -1,7 +1,8 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1em;
 
 }
    body{
@@ -24,13 +25,45 @@
 
 
    }
+
    .logo{
     width: 152px;
     height: 70px;
     background: url(../img/logo.png) no-repeat center;
+   }
+   
+   .menu{
+
+    margin: auto;
+    background-color:#354273;
+    margin-top: 30px;
+    font-size: 1.2em;
 
    }
 
+   .menu ul{
 
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+
+
+    }
+    .menu ul li a{
+
+    list-style: none;
+    text-decoration: none;
+    padding:20px;
+    color:whitesmoke;
+    line-height: 50px;
+    padding-left: 20px;
+
+    }
+
+    .menu ul li a:hover{
+  
+    color:#e5002b;
+    }
 
 
