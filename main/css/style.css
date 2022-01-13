@@ -11,7 +11,7 @@
    }
    #container{
 
-        max-width: 900px;
+        max-width: 720px;
         margin: auto;
         padding: 25px;
    }
@@ -29,7 +29,7 @@
    #main img{
     max-width:200px;
     max-height:70px;
-    margin-top: 15px;    
+    margin-top: 35px;  
    }
    
    .menu{
