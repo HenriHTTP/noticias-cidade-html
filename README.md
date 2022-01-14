@@ -6,9 +6,6 @@
  
 </div> 
 
-<div>
-    <h2> site  sendo desenvolvido </h2>
-  </div>
 
   
   
