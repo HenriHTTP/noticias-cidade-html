@@ -10,9 +10,5 @@
     <h2> site  sendo desenvolvido </h2>
   </div>
 
-<div alig="center">
-        <img src="https://user-images.githubusercontent.com/86864451/149229243-7ad6e8a5-fed6-49ac-a8d3-d2accb613024.png" width="1000px">
-  
-  </div>
   
   
